@@ -19,8 +19,10 @@ cityList[0] = 'Konin';
 cityList[1] = 'Zabrze';
 
 // Konstruktor - pusta tablica
-const items = [];
+const items = [4,3];
 const gameItems = new Array();
+
+
 // Konstruktor z uzupełnianonymi elementami
 const colors = new Array("red", "blue");
 colors[2] = "green";
